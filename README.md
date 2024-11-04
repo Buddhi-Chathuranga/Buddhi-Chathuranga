@@ -23,7 +23,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![IFS Marble](https://img.shields.io/badge/IFS%20Marble-0072B8?style=for-the-badge&logo=IFS&logoColor=white)&nbsp;
+![IFS Marble]([https://img.shields.io/badge/IFS%20Marble-0072B8?style=for-the-badge&logo=IFS&logoColor=white](https://badgen.net/#badge/color/IFS%20Cloud/purple?label))&nbsp;
 
 #### ML/DL
 
