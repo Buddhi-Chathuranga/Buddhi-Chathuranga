@@ -34,6 +34,6 @@ I'm eager to work on:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BuddhiChathiranga&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BuddhiChathiranga)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
 
 Don’t forget to follow me! 😊
