@@ -20,7 +20,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 
 #### Languages:
 
-![IFS Cloud](https://badgen.net/badge/color/IFS%20Cloud/purple?label=IFS%20Cloud)&nbsp;
+![](https://badgen.net/badge/color/IFS%20Cloud/purple?label=IFS%20Cloud)&nbsp;
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
