@@ -3,20 +3,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+All+!+%F0%9F%91%8B+;+I'm+Buddhi+Chathuranga!" alt="Buddhi Chathuranga" /></a>
     </h1>
-<h3 align="center"> IFS Technical Consultant </h3>
+<h2 align="center"> IFS Technical Consultant </h2>
 
 
 <div align="center" style="display: block;">
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
-
-
-
-
-<hr>
-
-<h3 align="left">My Resume : <a href="https://azure-constanta-25.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
-
 
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
