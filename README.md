@@ -3,7 +3,7 @@
 I'm **Buddhi Chathiranga**, an IFS Technical Consultant with a passion for technology and solutions. Here’s a bit about me:
 
 - **Interests:** Exploring ERP systems, software development, and technical consulting.
-- **Expertise:** I specialize in providing innovative solutions that help organizations streamline their operations and enhance productivity—think of me as a bridge connecting complex systems to user-friendly interfaces.
+- **Expertise:** I specialize in providing innovative solutions that help organizations streamline their operations and enhance productivity — think of me as a bridge connecting complex systems to user-friendly interfaces.
 - **Community Involvement:** Actively engaged in tech communities to share knowledge and learn from peers.
 
 #### Looking to Collaborate!
